@@ -1,0 +1,40 @@
+Temp 10:10 - 11:10
+Home Page :
+Providers (Properties,Rates&Availaibility,Reservations,Finance,Messaging,Dashboard)
+Zowara Admins (Provider,Requests,Approvals,Payments,Reports)
+Users (Services,Payments,Refunds,Settings)
+
+TEMP : 2:10 - 3:30
+understanding RABBITMQ
+
+TEMP (5/10 ) : 8:20 -9:30
+having the new archeticture with project 
+LINQ
+
+Autofac library : ContainerBuilder
+
+
+API : to get direct request
+LISTENER : to recieve requests and execue them locally
+
+How to imelmenent Listerners 
+
+THE MAIN ARCHETICTURE :
+SERVICE (ADD,CANCEL,CHANGE STATUS,PAY)
+PAYMENTS (ADD,CANCEL)
+
+
+TEMP : 6:00 - 9:30
+1. REVISING IMPORTANT TOPICS WITH MARWAN 
+   CMS CODE + RABBITMQ
+2. DESIGNING THE WEBPORTAL
+
+
+TO MAKE A LIBRARY THAT CONTAINS THE DEFINITION OF OTHER SERVICES
+
+CLIENTS PORTAL:
+
+ADMIN PORTAL :
+
+PROVIDERS PORTAL:
+SERVICES CONFIGURATION [EACH SERVICE HAS DIFFERENT CONFIGURATION] [ CLICKING ON THE SERVICE ]
